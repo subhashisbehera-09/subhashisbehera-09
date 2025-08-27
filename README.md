@@ -9,11 +9,7 @@ Email Me 👉 ✉️ **subhashisbehera7@gmail.com** For Collaboration/Project or
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/subhashis_09) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhashis-behera-ba7070351/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subhashisbehera7@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://www.leetcode.com/subhashis_09)
 
-<!-- Snake Game Repo View -->
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 
 # 💻 Tech Stack:
@@ -26,3 +22,14 @@ Email Me 👉 ✉️ **subhashisbehera7@gmail.com** For Collaboration/Project or
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=subhashisbehera-09&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 🐍 Snake eating my contributions
+
+<div align="center">
+
+### light Mode  
+![Snake animation](https://raw.githubusercontent.com/subhashisbehera-09/subhashisbehera-09/output/github-contribution-grid-snake.svg)
+
+
+
+</div>
