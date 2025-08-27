@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Subhashis Behera
 **A passionate full stack|| AI/ML Engineer  from India**
 
-Email Me 👉 ✉️ **subhashisbehera7@live.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **subhashisbehera7@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🌱 **I’m currently learning:** ML  basics
 - 📫 **How to reach me:** subhashisbehera7@gmail.com
